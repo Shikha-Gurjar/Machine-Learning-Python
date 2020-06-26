@@ -5,3 +5,5 @@
 
 - Machine learning is closely related to computational statistics, which focuses on making predictions using computers. 
 - The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning.
+
+- [Link for the Jupyter notebook](./Avocado/Avocadonew.ipynb)
